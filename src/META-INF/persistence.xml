@@ -8,7 +8,7 @@
 
    		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		
-		<class>br.com.ifpb.livraria.modelo.Livro</class>
+		<class>br.com.ifpb.livraria.modelo.Livro</class>		
 		<class>br.com.ifpb.livraria.modelo.Autor</class>
 
 		<properties>
